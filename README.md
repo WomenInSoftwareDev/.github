@@ -25,7 +25,7 @@ While the website includes a submenu highlighting other fields, the primary focu
 
 The organization currently hosts:
 
-- **[womeninsoftware.dev](https://github.com/WomenInSoftwareDev/womeninsoftware.dev):** The live website showcasing women in software development.
+- **[womeninsoftware.dev](https://github.com/WomenInSoftwareDev/womeninsoftware.dev):** The live website and community hub providing resources and support aimed at helping create a safer space for women in software development.
 
 ## How to Get Involved
 
