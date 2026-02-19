@@ -8,7 +8,7 @@
 
 ### Even in 2026, cyberbullying, harassment, and targeted gatekeeping are still too common, and I refuse to build anything that could add fuel or make it easier for that behavior to escalate. 
 
-### This doesn’t mean we stop, give up, or hide - it means we adapt: **WomenInSoftwareDev** should focus more on creating safer pathways to visibility and, just as importantly, on providing a supportive community for women in software development who have been harassed or gatekept, so we can navigate a broken reality with a more tactical approach.
+### This doesn’t mean we stop, give up, or hide our work - it means we adapt: **WomenInSoftwareDev** should focus more on creating safer pathways to visibility and, just as importantly, on providing a supportive community for women in software development who have been harassed or gatekept, so we can navigate a broken reality with a more tactical approach.
 
 
 ## About 
